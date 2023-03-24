@@ -167,7 +167,7 @@ a:hover {
 .ajax-loader {
   position: absolute;
   align-self: flex-end;
-  margin-right: 2.3rem;
+  margin-right: 2.1rem;
   animation-duration: 1s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
